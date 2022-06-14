@@ -16,13 +16,8 @@
     "react-dom": "^16.8.6"
   },
   "scripts": {
-<<<<<<< HEAD
     "start": "react-scripts start",
     "build": "react-scripts build",
-=======
-    "start": "react-scripts  --openssl-legacy-provider  start",
-    "build": "react-scripts  --openssl-legacy-provider  build",
->>>>>>> 206948cacbffd1c3af56be2643e302c7313f545d
     "test": "react-scripts test --watchAll=false --passWithNoTests",
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build"
